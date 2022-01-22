@@ -49,3 +49,10 @@ unzip the file
 start the setup script
 
 	sudo baxh kasm_release/install.sh
+
+### Get into KASM
+
+Type in your ip addres in browser where you can login via one
+of the id given to you like show in the secret file.
+From there you can stream tools such as vs code, gimp, TOR, ubuntu 
+via your browser from an dicker container
